@@ -8,3 +8,6 @@ This folder contains some well commented codes of some interesting problems I ha
 
 **Template**
 This folder contains the base template I normally use during coding. Also it contains some c++ template like big integer/fast io etc which we need sometimes during solving problems.
+
+**Guide**
+You will become better by solvind more and more problems.
